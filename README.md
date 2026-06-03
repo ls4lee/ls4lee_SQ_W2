@@ -20,8 +20,8 @@ The console will show any errors in your sketch.
 ## Assets
 | File | Source |
 |------|--------|
-| `assets/images/celestebackground.jpeg` [1] | 
-| `celestestrawberry.png` [2] | 
+| `assets/images/celestebackground.jpeg` [1] | Duderock, Celeste Summit Level Background - steamcommunity.com |
+| `celestestrawberry.png` [2] | Red Strawberry - celestegame.fandom.com |
 
 ## References
 [1] Steam workshop::celeste summit level background. Steam Workshop::Celeste Summit Level Background. (n.d.). https://steamcommunity.com/sharedfiles/filedetails/?id=2628212053 
